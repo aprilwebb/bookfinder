@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bookfinder/static/css/main.50ef846b.css",
+    "main.js": "/bookfinder/static/js/main.080f3573.js",
+    "index.html": "/bookfinder/index.html",
+    "main.50ef846b.css.map": "/bookfinder/static/css/main.50ef846b.css.map",
+    "main.080f3573.js.map": "/bookfinder/static/js/main.080f3573.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.50ef846b.css",
+    "static/js/main.080f3573.js"
+  ]
+}
