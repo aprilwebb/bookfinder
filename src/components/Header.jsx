@@ -4,7 +4,7 @@ function Header() {
   return (
     <header>
       <i className="fa-solid fa-book-open-reader fa-xl"></i>
-      <h1>myReads</h1>
+      <h1>bookfinder</h1>
     </header>
   );
 }
