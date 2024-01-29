@@ -30,7 +30,7 @@ function Card(props) {
             <h2>{props.title}</h2>
             <h3>Author: {props.author}</h3>
             <h3>Book Description:</h3>
-            <p> {props.description}</p>
+            <p> {props.description ? props.description : "Not available"}</p>
 
             <p>
               Publisher: {props.publisher ? props.publisher : "Not available"}
