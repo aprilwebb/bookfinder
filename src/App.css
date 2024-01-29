@@ -153,4 +153,23 @@ p {
   header h1 {
     font-size: 1.2em;
   }
+  .list {
+    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  }
+
+  .card-container {
+    max-width: 100%;
+  }
+
+  .modal-details {
+    max-width: 100%;
+  }
+
+  #modal-img {
+    max-width: 100%;
+  }
+
+  #modal-button {
+    margin: 10px;
+  }
 }
